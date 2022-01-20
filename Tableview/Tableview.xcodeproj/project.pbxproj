@@ -14,6 +14,7 @@
 		0C7B43DE2798014800A7AAAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C7B43DD2798014800A7AAAC /* Assets.xcassets */; };
 		0C7B43E12798014800A7AAAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C7B43DF2798014800A7AAAC /* LaunchScreen.storyboard */; };
 		0C7B43E92798265800A7AAAC /* ViewControllerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C7B43E82798265700A7AAAC /* ViewControllerTableViewCell.swift */; };
+		0C7B43EB2799113200A7AAAC /* TableCellViewControll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C7B43EA2799113200A7AAAC /* TableCellViewControll.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0C7B43E02798014800A7AAAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0C7B43E22798014800A7AAAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0C7B43E82798265700A7AAAC /* ViewControllerTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTableViewCell.swift; sourceTree = "<group>"; };
+		0C7B43EA2799113200A7AAAC /* TableCellViewControll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableCellViewControll.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				0C7B43D62798014600A7AAAC /* SceneDelegate.swift */,
 				0C7B43D82798014600A7AAAC /* ViewController.swift */,
 				0C7B43E82798265700A7AAAC /* ViewControllerTableViewCell.swift */,
+				0C7B43EA2799113200A7AAAC /* TableCellViewControll.swift */,
 				0C7B43DA2798014600A7AAAC /* Main.storyboard */,
 				0C7B43DD2798014800A7AAAC /* Assets.xcassets */,
 				0C7B43DF2798014800A7AAAC /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C7B43EB2799113200A7AAAC /* TableCellViewControll.swift in Sources */,
 				0C7B43D92798014600A7AAAC /* ViewController.swift in Sources */,
 				0C7B43D52798014600A7AAAC /* AppDelegate.swift in Sources */,
 				0C7B43E92798265800A7AAAC /* ViewControllerTableViewCell.swift in Sources */,

@@ -9,6 +9,7 @@ import UIKit
 
 class ViewControllerTableViewCell: UITableViewCell {
 
+    @IBOutlet weak var Telefon: UILabel!
     @IBOutlet weak var myLabel: UILabel!
     @IBOutlet weak var myImage: UIImageView!
     override func awakeFromNib() {
