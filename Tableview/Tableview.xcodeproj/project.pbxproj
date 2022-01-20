@@ -13,6 +13,7 @@
 		0C7B43DC2798014600A7AAAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C7B43DA2798014600A7AAAC /* Main.storyboard */; };
 		0C7B43DE2798014800A7AAAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C7B43DD2798014800A7AAAC /* Assets.xcassets */; };
 		0C7B43E12798014800A7AAAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C7B43DF2798014800A7AAAC /* LaunchScreen.storyboard */; };
+		0C7B43E92798265800A7AAAC /* ViewControllerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C7B43E82798265700A7AAAC /* ViewControllerTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0C7B43DD2798014800A7AAAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C7B43E02798014800A7AAAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0C7B43E22798014800A7AAAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C7B43E82798265700A7AAAC /* ViewControllerTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0C7B43D42798014600A7AAAC /* AppDelegate.swift */,
 				0C7B43D62798014600A7AAAC /* SceneDelegate.swift */,
 				0C7B43D82798014600A7AAAC /* ViewController.swift */,
+				0C7B43E82798265700A7AAAC /* ViewControllerTableViewCell.swift */,
 				0C7B43DA2798014600A7AAAC /* Main.storyboard */,
 				0C7B43DD2798014800A7AAAC /* Assets.xcassets */,
 				0C7B43DF2798014800A7AAAC /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				0C7B43D92798014600A7AAAC /* ViewController.swift in Sources */,
 				0C7B43D52798014600A7AAAC /* AppDelegate.swift in Sources */,
+				0C7B43E92798265800A7AAAC /* ViewControllerTableViewCell.swift in Sources */,
 				0C7B43D72798014600A7AAAC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
