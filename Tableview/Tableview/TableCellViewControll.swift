@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+class TableCellViewControll: UITableCellView, UITableViewDelegate, UITableViewDataSource {
+    
+    
+}
